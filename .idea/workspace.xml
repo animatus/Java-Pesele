@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32e48b36-ee71-4fb4-bd1b-00f4545e2788" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\software\intellij_idea\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qRPO37M2xwVvBGGFmGxNyPYlGu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="main.java.Pesel" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="test.java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="main.java.Pesel" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.Main" />
+      <module name="PeselProject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="PeselProjekt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.Main" />
+      <module name="PeselProject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeneratorTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PeselProjekt" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GeneratorTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeneratorTests.makeFileTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PeselProjekt" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GeneratorTests" />
+      <option name="METHOD_NAME" value="makeFileTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PeselTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PeselProjekt" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PeselTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.GeneratorTests" />
+        <item itemvalue="JUnit.PeselTest" />
+        <item itemvalue="JUnit.GeneratorTests.makeFileTest" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32e48b36-ee71-4fb4-bd1b-00f4545e2788" name="Default Changelist" comment="" />
+      <created>1583067950556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583067950556</updated>
+      <workItem from="1617039395365" duration="4582000" />
+      <workItem from="1617044082914" duration="178000" />
+    </task>
+    <task id="LOCAL-00001" summary="PESELE - Final commit">
+      <created>1617043539647</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617043539647</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="PESELE - Final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="PESELE - Final commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="689" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1617041893229">
+      <screen x="0" y="0" width="1920" height="1058" />
+    </state>
+    <state x="689" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1058@0.0.1920.1058" timestamp="1617041893229" />
+    <state x="578" y="97" key="CommitChangelistDialog2" timestamp="1617043538185">
+      <screen x="0" y="0" width="1920" height="1058" />
+    </state>
+    <state x="578" y="97" key="CommitChangelistDialog2/0.0.1920.1058@0.0.1920.1058" timestamp="1617043538185" />
+    <state x="835" y="426" key="Github.ShareDialog" timestamp="1617044243812">
+      <screen x="0" y="0" width="1920" height="1058" />
+    </state>
+    <state x="835" y="426" key="Github.ShareDialog/0.0.1920.1058@0.0.1920.1058" timestamp="1617044243812" />
+    <state width="1877" height="209" key="GridCell.Tab.0.bottom" timestamp="1617043979773">
+      <screen x="0" y="0" width="1920" height="1058" />
+    </state>
+    <state width="1877" height="209" key="GridCell.Tab.0.bottom/0.0.1920.1058@0.0.1920.1058" timestamp="1617043979773" />
+    <state width="1877" height="209" key="GridCell.Tab.0.center" timestamp="1617043979772">
+      <screen x="0" y="0" width="1920" height="1058" />
+    </state>
+    <state width="1877" height="209" key="GridCell.Tab.0.center/0.0.1920.1058@0.0.1920.1058" timestamp="1617043979772" />
+    <state width="1877" height="209" key="GridCell.Tab.0.left" timestamp="1617043979772">
+      <screen x="0" y="0" width="1920" height="1058" />
+    </state>
+    <state width="1877" height="209" key="GridCell.Tab.0.left/0.0.1920.1058@0.0.1920.1058" timestamp="1617043979772" />
+    <state width="1877" height="209" key="GridCell.Tab.0.right" timestamp="1617043979772">
+      <screen x="0" y="0" width="1920" height="1058" />
+    </state>
+    <state width="1877" height="209" key="GridCell.Tab.0.right/0.0.1920.1058@0.0.1920.1058" timestamp="1617043979772" />
+    <state x="461" y="173" key="SettingsEditor" timestamp="1617044166226">
+      <screen x="0" y="0" width="1920" height="1058" />
+    </state>
+    <state x="461" y="173" key="SettingsEditor/0.0.1920.1058@0.0.1920.1058" timestamp="1617044166226" />
+    <state x="681" y="270" width="540" height="524" key="StructurePopup" timestamp="1617039911246">
+      <screen x="0" y="0" width="1920" height="1058" />
+    </state>
+    <state x="681" y="270" width="540" height="524" key="StructurePopup/0.0.1920.1058@0.0.1920.1058" timestamp="1617039911246" />
+    <state x="552" y="261" key="Vcs.Push.Dialog.v2" timestamp="1617043564200">
+      <screen x="0" y="0" width="1920" height="1058" />
+    </state>
+    <state x="552" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1058@0.0.1920.1058" timestamp="1617043564200" />
+    <state x="744" y="410" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1617043396456">
+      <screen x="0" y="0" width="1920" height="1058" />
+    </state>
+    <state x="744" y="410" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1058@0.0.1920.1058" timestamp="1617043396456" />
+    <state x="342" y="149" key="new project wizard" timestamp="1617043792892">
+      <screen x="0" y="0" width="1920" height="1058" />
+    </state>
+    <state x="342" y="149" key="new project wizard/0.0.1920.1058@0.0.1920.1058" timestamp="1617043792892" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>PeselProjekt</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
