@@ -9,7 +9,8 @@ public class Main {
 
         do {
         Person person = new Person();
-        person.scanData();
+        if(!person.scanData()) continue;
+
         Generator generator = new Generator();
         String ret = generator.makeFile(person);
         System.out.println(ret);

@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32e48b36-ee71-4fb4-bd1b-00f4545e2788" name="Default Changelist" comment="" />
+    <list default="true" id="32e48b36-ee71-4fb4-bd1b-00f4545e2788" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Person.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,6 +108,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GeneratorTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PeselProjekt" />
       <option name="PACKAGE_NAME" value="" />
@@ -133,8 +150,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.GeneratorTests" />
         <item itemvalue="JUnit.PeselTest" />
+        <item itemvalue="JUnit.GeneratorTests" />
         <item itemvalue="JUnit.GeneratorTests.makeFileTest" />
         <item itemvalue="Application.Main (1)" />
       </list>
@@ -153,6 +170,7 @@
       <updated>1583067950556</updated>
       <workItem from="1617039395365" duration="4582000" />
       <workItem from="1617044082914" duration="178000" />
+      <workItem from="1617044283679" duration="1541000" />
     </task>
     <task id="LOCAL-00001" summary="PESELE - Final commit">
       <created>1617043539647</created>
@@ -180,26 +198,30 @@
       <screen x="0" y="0" width="1920" height="1058" />
     </state>
     <state x="578" y="97" key="CommitChangelistDialog2/0.0.1920.1058@0.0.1920.1058" timestamp="1617043538185" />
-    <state x="835" y="426" key="Github.ShareDialog" timestamp="1617044243812">
+    <state x="835" y="426" key="Github.ShareDialog" timestamp="1617044326283">
       <screen x="0" y="0" width="1920" height="1058" />
     </state>
-    <state x="835" y="426" key="Github.ShareDialog/0.0.1920.1058@0.0.1920.1058" timestamp="1617044243812" />
-    <state width="1877" height="209" key="GridCell.Tab.0.bottom" timestamp="1617043979773">
+    <state x="835" y="426" key="Github.ShareDialog/0.0.1920.1058@0.0.1920.1058" timestamp="1617044326283" />
+    <state x="762" y="233" key="Github.UntrackedFilesDialog" timestamp="1617044334315">
       <screen x="0" y="0" width="1920" height="1058" />
     </state>
-    <state width="1877" height="209" key="GridCell.Tab.0.bottom/0.0.1920.1058@0.0.1920.1058" timestamp="1617043979773" />
-    <state width="1877" height="209" key="GridCell.Tab.0.center" timestamp="1617043979772">
+    <state x="762" y="233" key="Github.UntrackedFilesDialog/0.0.1920.1058@0.0.1920.1058" timestamp="1617044334315" />
+    <state width="938" height="209" key="GridCell.Tab.0.bottom" timestamp="1617046874794">
       <screen x="0" y="0" width="1920" height="1058" />
     </state>
-    <state width="1877" height="209" key="GridCell.Tab.0.center/0.0.1920.1058@0.0.1920.1058" timestamp="1617043979772" />
-    <state width="1877" height="209" key="GridCell.Tab.0.left" timestamp="1617043979772">
+    <state width="938" height="209" key="GridCell.Tab.0.bottom/0.0.1920.1058@0.0.1920.1058" timestamp="1617046874794" />
+    <state width="938" height="209" key="GridCell.Tab.0.center" timestamp="1617046874794">
       <screen x="0" y="0" width="1920" height="1058" />
     </state>
-    <state width="1877" height="209" key="GridCell.Tab.0.left/0.0.1920.1058@0.0.1920.1058" timestamp="1617043979772" />
-    <state width="1877" height="209" key="GridCell.Tab.0.right" timestamp="1617043979772">
+    <state width="938" height="209" key="GridCell.Tab.0.center/0.0.1920.1058@0.0.1920.1058" timestamp="1617046874794" />
+    <state width="938" height="209" key="GridCell.Tab.0.left" timestamp="1617046874794">
       <screen x="0" y="0" width="1920" height="1058" />
     </state>
-    <state width="1877" height="209" key="GridCell.Tab.0.right/0.0.1920.1058@0.0.1920.1058" timestamp="1617043979772" />
+    <state width="938" height="209" key="GridCell.Tab.0.left/0.0.1920.1058@0.0.1920.1058" timestamp="1617046874794" />
+    <state width="938" height="209" key="GridCell.Tab.0.right" timestamp="1617046874794">
+      <screen x="0" y="0" width="1920" height="1058" />
+    </state>
+    <state width="938" height="209" key="GridCell.Tab.0.right/0.0.1920.1058@0.0.1920.1058" timestamp="1617046874794" />
     <state x="461" y="173" key="SettingsEditor" timestamp="1617044166226">
       <screen x="0" y="0" width="1920" height="1058" />
     </state>

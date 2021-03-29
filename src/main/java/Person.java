@@ -26,7 +26,7 @@ public class Person {
         return PESEL;
     }
 
-    public void scanData(){
+    public Boolean scanData(){
 
         Scanner scanner = new Scanner(System.in);
 
@@ -38,10 +38,16 @@ public class Person {
         lastName =scanner.nextLine();
         System.out.print("Podaj pesel: ");
         PESEL =scanner.nextLine();
-        if(!Pesel.isValid(PESEL)){
-            return;
+        if(!Pesel.isValid(PESEL))
+        {
+            return false;
         }
-        else System.out.println("Dane poprawne ");
+        else
+            {
+
+                System.out.println("Dane poprawne ");
+            return true;
+        }
 
     }
 
